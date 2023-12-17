@@ -11484,3 +11484,9 @@ ul.blocks-gallery-grid li:before {
   }
  
 }
+@media only screen and (max-width: 500px) {
+  #logo-img{
+    width:46vw !important;
+  }
+ 
+}
